@@ -1,0 +1,12 @@
+{
+  "name": "parcial2_pw_backend",
+  "version": "1.0.0",
+  "description": "Backend examen parcial 2 - Programación Web 2025",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
